@@ -32,7 +32,15 @@ export class GifMapping {
 
   index(): string {
     let index = "";
-    for (const gif of this.gifList) {
+    for (const gif of this.gifList.sort((g1, g2) => {
+      if (g1.name > g2.name) {
+        return 1;
+      }
+      if (g1.name < g2.name) {
+        return -1;
+      }
+      return 0;
+    })) {
       index = `${index}<a href="${gif.name}">${gif.name}</a><br />`;
     }
     return index;
