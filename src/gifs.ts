@@ -59,7 +59,8 @@ export function getGifMapping(): GifMapping {
       "disappear",
       "hedge",
       "homer-hedge"
-    )
+    ),
+    new Gif("72bef933-2fd1-4967-be6d-d7455d463400", "phew")
   );
 
   return mapping;
