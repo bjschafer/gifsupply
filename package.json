@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20221111.1",
-    "npm-check-updates": "^16.7.13",
+    "npm-check-updates": "^16.10.10",
     "prettier": "^2.8.3",
     "typescript": "^5.0.2",
     "wrangler": "^2.8.0"
