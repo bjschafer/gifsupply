@@ -50,6 +50,7 @@ export class GifMapping {
 export function getGifMapping(): GifMapping {
   const mapping = new GifMapping();
   mapping.add(
+    new Gif("f17899ef-956c-40d9-2d2a-371f22161600", "aw_beans", "awbeans", "aw-beans"),
     new Gif("9e63e011-9c75-4256-70b6-0dd2b1a43b00", "spiderman", "noyou"),
     new Gif("7721c566-fa57-46b0-470d-a6619e4d2000", "themoreyouknow"),
     new Gif("50bf3438-a1f4-48b5-2940-e75ff4d09b00", "nerd", "neeeerd"),
