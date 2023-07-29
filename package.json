@@ -4,7 +4,7 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20230518.0",
     "npm-check-updates": "^16.7.13",
-    "prettier": "^2.8.8",
+    "prettier": "^3.0.0",
     "typescript": "^5.1.6",
     "wrangler": "^3.1.0"
   },
