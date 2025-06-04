@@ -55,6 +55,7 @@ export function getGifMapping(): GifMapping {
     new Gif("7721c566-fa57-46b0-470d-a6619e4d2000", "themoreyouknow"),
     new Gif("50bf3438-a1f4-48b5-2940-e75ff4d09b00", "nerd", "neeeerd"),
     new Gif("be8ebb25-4e79-41ab-e372-22074a14b400", "excellent", "mrburns"),
+    new Gif("24d0f8ee-d4ed-42d5-ef29-069ea5447c00", "bocchi"),
     new Gif(
       "51489de7-b68a-4720-c5d4-37dbb8f87f00",
       "disappear",
