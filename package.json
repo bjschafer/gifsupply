@@ -2,11 +2,11 @@
   "name": "gifs",
   "version": "0.0.0",
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20240512.0",
-    "npm-check-updates": "^16.14.15",
-    "prettier": "^3.3.3",
-    "typescript": "^5.4.2",
-    "wrangler": "^3.57.0"
+    "@cloudflare/workers-types": "^4.20250604.0",
+    "npm-check-updates": "^18.0.1",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.3",
+    "wrangler": "^4.19.1"
   },
   "private": true,
   "scripts": {
