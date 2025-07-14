@@ -2,7 +2,7 @@
   "name": "gifs",
   "version": "0.0.0",
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20250705.0",
+    "@cloudflare/workers-types": "^4.20250712.0",
     "npm-check-updates": "^18.0.1",
     "prettier": "^3.5.3",
     "typescript": "^5.8.3",
